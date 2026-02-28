@@ -1,6 +1,6 @@
 # 📘 Projeto de Aprendizado: JPA com Hibernate e MySQL
 
-Este repositório foi criado como parte do meu **aprendizado** na **Seção 21 do curso de Java EE - Mapeamento objeto-relacional com JPA/Hibernate**.  
+Este repositório foi criado como parte do meu **aprendizado** na **Java EE - Mapeamento objeto-relacional com JPA/Hibernate**.  
 O objetivo é praticar conceitos de **Java SE**, **Maven**, **JPA/Hibernate** e integração com **MySQL**.
 
 ---
